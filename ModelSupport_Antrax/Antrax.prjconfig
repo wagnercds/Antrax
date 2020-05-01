@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.Antrax" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ExtCtrls" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.main" Type="System.String" Value="" IsBrowsable="False" />
+</TgConfig>

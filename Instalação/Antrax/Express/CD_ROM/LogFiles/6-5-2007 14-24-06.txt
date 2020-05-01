@@ -1,0 +1,90 @@
+=================Logging started at 6/5/2007 14:24:06 ==================
+Binary table successfully built
+CustomAction table successfully built
+Property table successfully built
+Feature table successfully built
+FeatureComponents table successfully built
+IniFile table successfully built
+Building Directory table
+Directory table successfully built
+Registry table successfully built
+Building Feature table
+Component table successfully built
+Directory table successfully built
+AdminExecuteSequence table successfully built
+AdminUISequence table successfully built
+AdvtExecuteSequence table successfully built
+InstallExecuteSequence table successfully built
+InstallUISequence table successfully built
+Merging BDE_ENT: C:\Arquivos de programas\Borland\Delphi6\MergeModules\bde_ent.msm
+Merging BaseRTL: C:\Arquivos de programas\Borland\Delphi6\MergeModules\BaseRTL.Msm
+Merging DatabaseRTL: C:\Arquivos de programas\Borland\Delphi6\MergeModules\DatabaseRTL.Msm
+Merging BDERTL: C:\Arquivos de programas\Borland\Delphi6\MergeModules\BDERTL.Msm
+Merging DataSnap: C:\Arquivos de programas\Borland\Delphi6\MergeModules\DataSnap.Msm
+Merging dbExpress: C:\Arquivos de programas\Borland\Delphi6\MergeModules\dbExpress.Msm
+Merging BaseClientDataSet: C:\Arquivos de programas\Borland\Delphi6\MergeModules\BaseClientDataSet.Msm
+Merging BDEClientDataSet: C:\Arquivos de programas\Borland\Delphi6\MergeModules\BDEClientDataSet.Msm
+Merging Microsoft Feature Category Manager Library: C:\Arquivos de programas\InstallShield\InstallShield Express Borland Limited Edition\Modules\i386\COMCAT.MSM
+Merging Microsoft OLE 2.40  for Windows NT(TM) and Windows 95(TM) Operating Systems: C:\Arquivos de programas\InstallShield\InstallShield Express Borland Limited Edition\Modules\i386\OLEAUT32.MSM
+Merging MSComm: C:\Arquivos de programas\InstallShield\InstallShield Express Borland Limited Edition\Modules\i386\MSCOMM32.MSM
+Shortcut table successfully built
+Class table successfully built
+AppId table successfully built
+ProgId table successfully built
+TypeLib table successfully built
+Extension table successfully built
+Verb table successfully built
+MIME table successfully built
+PublishComponent table successfully built
+Directory table successfully built
+LaunchCondition table successfully built
+ServiceInstall table successfully built
+ServiceControl table successfully built
+ODBCDriver table successfully built
+ODBCAttribute table successfully built
+ODBCDataSource table successfully built
+ODBCSourceAttribute table successfully built
+ODBCTranslator table successfully built
+TextStyle table successfully built
+ActionText table successfully built
+Error table successfully built
+UIText table successfully built
+Icon table successfully built
+InstallShield table successfully built
+Dialog AdminChangeFolder for language Inglês (Estados Unidos) built
+Dialog AdminNetworkLocation for language Inglês (Estados Unidos) built
+Dialog AdminWelcome for language Inglês (Estados Unidos) built
+Dialog SplashBitmap for language Inglês (Estados Unidos) built
+Dialog InstallChangeFolder for language Inglês (Estados Unidos) built
+Dialog CancelSetup for language Inglês (Estados Unidos) built
+Dialog CustomSetup for language Inglês (Estados Unidos) built
+Dialog OutOfSpace for language Inglês (Estados Unidos) built
+Dialog SetupError for language Inglês (Estados Unidos) built
+Dialog SetupCompleteSuccess for language Inglês (Estados Unidos) built
+Dialog SetupCompleteError for language Inglês (Estados Unidos) built
+Dialog DiskSpaceRequirements for language Inglês (Estados Unidos) built
+Dialog FilesInUse for language Inglês (Estados Unidos) built
+Dialog SetupInitialization for language Inglês (Estados Unidos) built
+Dialog LicenseAgreement for language Inglês (Estados Unidos) built
+Dialog MaintenanceType for language Inglês (Estados Unidos) built
+Dialog MaintenanceWelcome for language Inglês (Estados Unidos) built
+Dialog SetupProgress for language Inglês (Estados Unidos) built
+Dialog CustomerInformation for language Inglês (Estados Unidos) built
+Dialog SetupResume for language Inglês (Estados Unidos) built
+Dialog SetupInterrupted for language Inglês (Estados Unidos) built
+Dialog ReadyToInstall for language Inglês (Estados Unidos) built
+Dialog ReadyToRemove for language Inglês (Estados Unidos) built
+Dialog InstallWelcome for language Inglês (Estados Unidos) built
+Dialog DestinationFolder for language Inglês (Estados Unidos) built
+Dialog CustomSetupTips for language Inglês (Estados Unidos) built
+Dialog ReadmeInformation for language Inglês (Estados Unidos) built
+Dialog SetupType for language Inglês (Estados Unidos) built
+Dialog DatabaseFolder for language Inglês (Estados Unidos) built
+Language Inglês (Estados Unidos) built
+Files processed
+Cabs
+Media
+SummaryStream table successfully built
+Setup.exe created
+Express\CD_ROM build completed with 0 errors, 0 warnings
+=================Logging Stopped at 6/5/2007 14:24:24 ==================
